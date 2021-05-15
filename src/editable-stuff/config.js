@@ -15,22 +15,22 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/mhdh-9",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/habeeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/habeeb/",
-    },
+    // {
+    //   image: "fa-facebook",
+    //   url: "https://www.facebook.com/habeeb",
+    // },
+    // {
+    //   image: "fa-instagram",
+    //   url: "https://www.instagram.com/habeeb/",
+    // },
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/habget99/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/habeeb/",
-    },
+    // {
+    //   image: "fa-twitter",
+    //   url: "https://www.twitter.com/habeeb/",
+    // },
   ],
 };
 
