@@ -46,7 +46,7 @@ const mainBody = {
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+//         resume: "https://drive.google.com/file/d/15jBJXad0Z87g6H8xTWe5imt_v-7Jamwe/view?usp=sharing",
 
 const about = {
   show: true,
@@ -129,7 +129,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time / Internship  Software Engineering or Full Stack Web Development opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "habeeb.17231@knit.ac.in",
+  email: "habeeb1699@gmail.com",
 };
 
 const experiences = {
