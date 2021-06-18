@@ -55,7 +55,7 @@ const about = {
   imageSize: 250,
   message:
     "Hello! My name is Mohd Habeeb.I’m a Final Year undergraduate student at Kamla Nehru Institute of Technology, Sultanpur pursuing Bachelors of Technology(B.Tech.) in  Computer Science and Engineering.I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering.",
-  resume: "https://docs.google.com/document/d/1YkYk6uBdK_HTAtLpCftQnUMfkbC5LICGRw3XS7Numjg/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/15jBJXad0Z87g6H8xTWe5imt_v-7Jamwe/view?usp=sharing",
 };
 
 // PROJECTS SECTION
